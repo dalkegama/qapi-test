@@ -13,7 +13,7 @@
   "author": "",
   "license": "UNLICENSED",
   "devDependencies": {
-    "@graphql-codegen/cli": "^1.12.0",
+    "@graphql-codegen/cli": "^1.21.8",
     "@graphql-codegen/typescript": "^1.12.0",
     "@graphql-codegen/typescript-resolvers": "^1.12.0",
     "@types/node": "^12.7.5",
